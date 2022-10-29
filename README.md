@@ -1,10 +1,3 @@
-# Sales Invoice
+# Sales Invoce 2
 
-Progarm to calculate the produts added to a cart
-
-
-## How it works 
-
-This calculate and print out this list of products added to a cart and the total price,
-and display it on a table  
-
+code to calculate items added to acrt and print the sesult on table
